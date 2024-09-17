@@ -1,0 +1,4 @@
+package org.example.ordermanagementsystem.repository;
+
+public class OrderRepositoryTest {
+}
